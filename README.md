@@ -45,8 +45,3 @@ Below are the necessary python version and python libraries.
 - Set the appropriate address to the Unity environment file corresponding to the correct operating system in the code below.
     - env = UnityEnvironment(file_name='Tennis_Windows_x86_64/Tennis.exe')
 - Set load_model_continue_learning = True to load a pre-trained model and continue training.
-
-
-- Implement a Critic that outputs a Q-value for both agents' states and actions at the same time
-- Implement other policy gradient methods and compare performance
-- Change reward structure to create a competitive environment for the two agents. (Obtain reward when opponent agent drops the ball to the ground)
