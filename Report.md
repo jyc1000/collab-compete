@@ -29,7 +29,10 @@
   
 ## Result
 - Environment solved in 450 episodes
+  
 ### Plot of rewards
+![Alt Text](Figure_1.png)
+
 
 ## Ideas for future work
 - Implement a Critic that outputs a Q-value for both agents' states and actions at the same time
